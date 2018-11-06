@@ -13,3 +13,5 @@ it('works with `import`', () => {
  (should show unknown coverage)
 
 * press key P, enter 'index'(should show correct)
+
+* Run `npx jest`(should show correct)
