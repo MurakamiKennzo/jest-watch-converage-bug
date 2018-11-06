@@ -1,7 +1,7 @@
 ## follow the step
 
 * Run `npx jest --watch` (should show unknown coverage)
-* add test in <span>__tests__</span>/index.test.js like this:
+* add test in __\u0tests\u0__/index.test.js like this:
 
 ```js
 // ...
