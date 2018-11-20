@@ -15,3 +15,5 @@ it('works with `import`', () => {
 * press key P, enter 'index'(should show correct)
 
 * Run `npx jest`(should show correct)
+
+**issue**: [watch and coverage bug?](https://github.com/facebook/jest/issues/7331)
